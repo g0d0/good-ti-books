@@ -1,5 +1,4 @@
-# good-ti-books
-Good TI books / Bons livros da área de TI
+# Good TI books / Bons livros da área de TI
 
 Código limpo: Habilidades práticas do Agile Software
 https://amzn.to/30EvW66
