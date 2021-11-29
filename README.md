@@ -41,3 +41,6 @@ https://amzn.to/3DNWYqj
 
 Manual de DevOps: como obter agilidade, confiabilidade e segurança em organizações tecnológicas
 https://amzn.to/2ZeQtOn
+
+You don't know JS series
+https://www.amazon.com.br/You-Dont-Know-Js-Closures/dp/1449335586
